@@ -1,9 +1,12 @@
 - 👋 Hi there, it's @MrMarcoMarino
 - I'm a 28 years old smart contract developer from germany. On my github i will present you my latest work and projects.
+
+- 
 - 
 - 👀 Bio:
-- 🌱 
-- 💞️ 
+- 🌱 Programming languages: Solidity, Python, C++, Reactjs, JavaScript, Swift
+-  
+- 💞️ Programms I learned:
 
 - 📫 How to reach me mrmarcomarino@protonmail.com
 
