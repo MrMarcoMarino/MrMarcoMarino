@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @MrMarcoMarino
-- 👀 I’m interested in blockchain, smart contract and gaming
+- 👋 Hi there, it's @MrMarcoMarino
+- I'm a 28 years old smart contract developer from germany. On my github i will present you my latest work and projects.
+- 
+- 👀 Bio:
 - 🌱 
 - 💞️ 
 
