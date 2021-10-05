@@ -6,7 +6,7 @@ I'm a 28 years old smart contract developer from germany. On my github i will pr
 
 🌱 Programming languages: Solidity, Python, C++, Reactjs, JavaScript, Swift, HTML, (Brownie / Truffle)
  
-💞️ Programms I learned: Unreal Engine 4/5, Adobe Photoshop / Premiere / After Effects, Keyshot, Cleverreach
+💞️ Programms I learned: Unreal Engine 4/5, Adobe Photoshop / Premiere / After Effects, Keyshot, Wordpress, Cleverreach
 
 - 📫 How to reach me mrmarcomarino@protonmail.com
 
