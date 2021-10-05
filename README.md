@@ -2,7 +2,7 @@
 
 I'm a 28 years old smart contract developer from germany. On my github i will present you my latest work and projects.
 
-👀 Biography: I started programming in c++ in 2008. I remeber my first project was a chat application like ICQ.
+👀 Biography: I started programming in c++ in 2008. I remember my first project was a chat application like ICQ.
 
 🌱 Programming languages: Solidity, Python, C++, Reactjs, JavaScript, Swift, HTML, (Brownie / Truffle)
  
